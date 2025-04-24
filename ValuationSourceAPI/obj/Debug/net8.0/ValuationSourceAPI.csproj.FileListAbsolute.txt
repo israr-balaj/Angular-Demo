@@ -36,3 +36,4 @@ C:\Users\Dev\source\repos\Angular\ValuationSourceAPI\obj\Debug\net8.0\refint\Val
 C:\Users\Dev\source\repos\Angular\ValuationSourceAPI\obj\Debug\net8.0\ValuationSourceAPI.pdb
 C:\Users\Dev\source\repos\Angular\ValuationSourceAPI\obj\Debug\net8.0\ValuationSourceAPI.genruntimeconfig.cache
 C:\Users\Dev\source\repos\Angular\ValuationSourceAPI\obj\Debug\net8.0\ref\ValuationSourceAPI.dll
+C:\Users\Dev\source\repos\Angular\ValuationSourceAPI\obj\Debug\net8.0\ValuationSourceAPI.sourcelink.json

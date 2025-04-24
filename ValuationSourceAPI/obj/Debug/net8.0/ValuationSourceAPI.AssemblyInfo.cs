@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ValuationSourceAPI")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+dc9464c723710678e9e0c9771609bbfe1fea5ebb")]
 [assembly: System.Reflection.AssemblyProductAttribute("ValuationSourceAPI")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ValuationSourceAPI")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
